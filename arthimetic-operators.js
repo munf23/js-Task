@@ -17,7 +17,7 @@ Task 1:
    6. Set the value of variable e to the sum of variables a, b, c, and d.
    7. Use console.log() to print the value of variable e to the console. (it should result 105.667)
 *******************************************************************************/
-// TODO: ADD YOUR CODE HERE
+// TODO: ADD YOUR CODE BELOW
 
 /*******************************************************************************
  Task 2:
@@ -27,4 +27,4 @@ Task 1:
    4. Declare a variable price and assign it the value 9.99. Declare another variable discount and assign it the value 0.20. Calculate the discounted price and log the result to the console.
    5. Divide two numbers and round the result to the nearest integer before logging it to the console.
 *******************************************************************************/
-// TODO: ADD YOUR CODE HERE
+// TODO: ADD YOUR CODE BELOW

@@ -14,7 +14,7 @@
         - 'isHappy' should hold a boolean value.
     2. Use console.log() to output the value of each variable.
  ********************************************************************************/
-// TODO: ADD YOUR CODE HERE
+// TODO: ADD YOUR CODE BELOW
 
 /*******************************************************************************
  Task 2 (Reassigning variables):
@@ -23,7 +23,7 @@
     1. Create a new variable named 'nickName' and assign the value of the 'personName' variable to the 'nickName' variable.
     2. Use console.log o output the value of 'nickName'
  *******************************************************************************/
-// TODO: ADD YOUR CODE HERE
+// TODO: ADD YOUR CODE BELOW
 
 /*******************************************************************************
  Task 3 (Naming variables):
@@ -32,7 +32,7 @@
     1. Create a variable with the title of your favorite movie. How would you name such a variable?
     2. Declare a variable that stores the age of a user. What name would you choose for this variable?
 *******************************************************************************/
-// TODO: ADD YOUR CODE HERE
+// TODO: ADD YOUR CODE BELOW
 
 /*******************************************************************************
 Task 4 (String Concatenation):
@@ -47,3 +47,4 @@ Steps:
         - Assign the completed message to a variable called finalMsg
         - Print the final message to the console, including the personName in uppercase in this format `Dear personName_VALUE, here's your message: finalMsg_VALUE.`.
 *******************************************************************************/
+// TODO: ADD YOUR CODE BELOW
