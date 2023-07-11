@@ -15,6 +15,13 @@
     2. Use console.log() to output the value of each variable.
  ********************************************************************************/
 // TODO: ADD YOUR CODE BELOW
+let name="mnuaf";
+let age= 23;
+let isHappy=function{}
+console.log(name);output:mnuaf;
+
+
+
 
 /*******************************************************************************
  Task 2 (Reassigning variables):
@@ -24,7 +31,10 @@
     2. Use console.log o output the value of 'nickName'
  *******************************************************************************/
 // TODO: ADD YOUR CODE BELOW
-
+let nAme="mnuaf"
+let Age="23";
+console.log('nAme+""+Age')
+ 
 /*******************************************************************************
  Task 3 (Naming variables):
  
@@ -33,6 +43,12 @@
     2. Declare a variable that stores the age of a user. What name would you choose for this variable?
 *******************************************************************************/
 // TODO: ADD YOUR CODE BELOW
+let Naminga="House of the drogen";
+ let agE="8";
+ console.log('my Naminga is${House of the drogen}and my number of episodes is${8}' );
+
+
+
 
 /*******************************************************************************
 Task 4 (String Concatenation):
@@ -48,3 +64,8 @@ Steps:
         - Print the final message to the console, including the personName in uppercase in this format `Dear personName_VALUE, here's your message: finalMsg_VALUE.`.
 *******************************************************************************/
 // TODO: ADD YOUR CODE BELOW
+let NAme="msg";
+let Age="17"
+var isHappy=function(n){
+    //AA
+}
