@@ -15,10 +15,13 @@
     2. Use console.log() to output the value of each variable.
  ********************************************************************************/
 // TODO: ADD YOUR CODE BELOW
-let  personName="mnuaf";
-let age= 23;
-let isHappy=false
-console.log(personName);output:mnuaf;
+
+let personName = "mnuaf";
+let age = 21;
+let isHappy = true;
+console.log(personName);
+console.log(age);
+console.log(isHappy);
 
 
 
@@ -31,9 +34,8 @@ console.log(personName);output:mnuaf;
     2. Use console.log o output the value of 'nickName'
  *******************************************************************************/
 // TODO: ADD YOUR CODE BELOW
-const nickName="mnuaf"
-const Age="23";
-console.log('nickName+ Age')
+let nickName = personName;
+console.log(personName);
  
 /*******************************************************************************
  Task 3 (Naming variables):
@@ -43,9 +45,8 @@ console.log('nickName+ Age')
     2. Declare a variable that stores the age of a user. What name would you choose for this variable?
 *******************************************************************************/
 // TODO: ADD YOUR CODE BELOW
-const favMovie="House of the drogen";
- const usrAge="8";
- console.log('favMovie+ ""+ usrAge' );
+let favoriteMovie = "IT";
+let ageUser = 30;
 
 
 
@@ -66,6 +67,14 @@ Steps:
 // TODO: ADD YOUR CODE BELOW
 
 let msg;
-msg=prompt("ambh");
-let finalMsg;
-console .log( )
+let whyHappy;
+msg = prompt("Enter a message ");
+
+if (isHappy == true) {
+  whyHappy = prompt("And btw, Why are you happy?");
+  console.log(whyHappy);
+}
+let finalMsg = `${msg}${" "}${whyHappy}`;
+console.log(
+  `Dear ${personName.toLocaleUpperCase()}, here's your message: ${finalMsg} , and why iam happy ${whyHappy} `
+);
